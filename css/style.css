@@ -1,0 +1,13 @@
+
+/*  FONTFAMILY  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;500;700;900&display=swap');
+
+/*  MAIN BG  */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #333333;
+    background-image: url("/images/BlueRektBg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
