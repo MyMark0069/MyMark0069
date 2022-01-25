@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MyMark0069 - or just Mark ;-)
 - 👀 I’m interested in all things web & Inernet.
-- 🌱 I’m currently studying .NET from a Full-Stack perspective.
-- 💞️ I’m looking to land a job, as everybode else ;-)
+- 🌱 I’m currently working & studying .NET from a Full-Stack perspective.
 - 📫 I´m reachable through any standard channel - all public.
 
 <!---
