@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip_0A_Setlists", "Tip_0A_Setlists.csproj", "{0BB38615-9190-44FB-9AD4-7889FEFC6EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip_Constructors", "..\Tip_Constructors\Tip_Constructors.csproj", "{656E7DEC-0C8F-49A5-93B9-E91E7CCC2ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB38615-9190-44FB-9AD4-7889FEFC6EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB38615-9190-44FB-9AD4-7889FEFC6EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB38615-9190-44FB-9AD4-7889FEFC6EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB38615-9190-44FB-9AD4-7889FEFC6EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656E7DEC-0C8F-49A5-93B9-E91E7CCC2ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656E7DEC-0C8F-49A5-93B9-E91E7CCC2ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656E7DEC-0C8F-49A5-93B9-E91E7CCC2ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656E7DEC-0C8F-49A5-93B9-E91E7CCC2ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A793672D-8D4E-41F9-8F95-2A8EECFEAFA9}
+	EndGlobalSection
+EndGlobal
